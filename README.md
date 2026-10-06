@@ -1,2 +1,3 @@
 # now-sync
-Repository created by Copilot on user request
+
+This sync oppty records from now.
